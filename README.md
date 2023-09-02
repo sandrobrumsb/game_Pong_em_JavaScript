@@ -11,7 +11,6 @@ Jogo criado usando animações, controles, sons e placar em Javascript
 - Detectamos a colisão da bolinha com as bordas verificando a posição x e y.
 ## Para vizualizar o Projeto Acesse:
 
-https://editor.p5js.org/sandrosb/full/W-zDk88l_
-
-ou
+- (https://editor.p5js.org/sandrosb/full/W-zDk88l_)
+<br> ou
 - faça o download do repositorio game_Pong_em_JavaScript execulte no seu navegador o index.html.
