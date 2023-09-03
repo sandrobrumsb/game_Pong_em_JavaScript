@@ -1,7 +1,11 @@
 # Projeto Game Pong em JavaScript
-Jogo criado usando animações, controles, sons e placar em Javascript
+ Clone do game classico pong do Atari (1972). Desenvolvido usando animações, controles, sons e placar em JavaScript
 
 ## Conhecimentos adquiridos nesse projeto:
+<div align="center" >
+  
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+</div>
 
 - desenvolvimento realizado atraves do web P5 Js (https://editor.p5js.org/).
 - Movimentamos a raquete através das setas para cima e para baixo do teclado, através dos códigos keyIsDown(UP_ARROW) e keyIsDown(DOWN_ARROW) respectivamente.
@@ -11,6 +15,6 @@ Jogo criado usando animações, controles, sons e placar em Javascript
 - Detectamos a colisão da bolinha com as bordas verificando a posição x e y.
 ## Para vizualizar o Projeto Acesse:
 
-[Game Pong em JS - sandrosb clique aqui:](https://editor.p5js.org/sandrosb/sketches/W-zDk88l_)
+[CLIQUE AQUI: Game Pong em JS created by sandrosb](https://editor.p5js.org/sandrosb/sketches/W-zDk88l_)
 <br> ou
 - faça o download do repositorio game_Pong_em_JavaScript e execulte no seu navegador o index.html.
