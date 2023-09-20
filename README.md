@@ -15,6 +15,6 @@
 - Detectamos a colisão da bolinha com as bordas verificando a posição x e y.
 ## Para vizualizar o Projeto Acesse:
 
-[CLIQUE AQUI: Game Pong em JS created by sandrosb](https://editor.p5js.org/sandrosb/sketches/W-zDk88l_)
+[CLIQUE AQUI PARA JOGAR: Game Pong em JS created by sandrosb](https://editor.p5js.org/sandrosb/full/W-zDk88l_)
 <br> ou
 - faça o download do repositorio game_Pong_em_JavaScript e execulte no seu navegador o index.html.
